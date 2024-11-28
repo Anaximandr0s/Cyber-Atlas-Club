@@ -1,6 +1,6 @@
 # Cyber-Atlas-Club  
 
-![CyberAtlas Logo](path/to/logo.png)  
+![CyberAtlas Logo]([path/to/logo.png](https://github.com/Anaximandr0s/Cyber-Atlas-Club/blob/main/Memories%202023/Est-Safi.png))  
 
 Welcome to the official repository of **Cyber Atlas**, the cybersecurity club at **École Supérieure de Technologie Safi**.  
 
